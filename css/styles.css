@@ -1,22 +1,26 @@
-.clickable1 {
+.clickable {
   cursor: pointer;
   color: #0088cc;
 }
-.clickable1:hover {
+#clickable1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+#clickable1:hover {
   text-decoration: underline;
 }
-.clickable2 {
+#clickable2 {
   cursor: pointer;
   color: #0088cc;
 }
-.clickable2:hover {
+#clickable2:hover {
   text-decoration: underline;
 }
-.clickable3 {
+#clickable3 {
   cursor: pointer;
   color: #0088cc;
 }
-.clickable3:hover {
+#clickable3:hover {
   text-decoration: underline;
 }
 .clickable4 {
@@ -29,7 +33,10 @@
 .definition p {
   display: none;
 }
-#operator-definition {
+#javascript-definition {
+  display: none;
+}
+#operators-definition {
   display: none;
 }
 #variables-definition {

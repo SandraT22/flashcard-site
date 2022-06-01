@@ -1,13 +1,13 @@
 $(document).ready(function() {
-  $(".clickable1").click(function() {
+  $("#clickable1").click(function() {
     $("#javascript-word").toggle();
     $("#javascript-definition").toggle();
   });
-  $(".clickable2").click(function() {
+  $("#clickable2").click(function() {
     $("#operators-word").toggle();
     $("#operartors-definition").toggle();
   });
-  $(".clickable3").click(function() {
+  $("#clickable3").click(function() {
     $("#variables-word").toggle();
     $("#variables-definition").toggle();
   });
