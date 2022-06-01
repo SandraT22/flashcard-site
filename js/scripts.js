@@ -5,7 +5,7 @@ $(document).ready(function() {
   });
   $(".clickable2").click(function() {
     $("#operators-word").toggle();
-    $("#operartors-definition").toggle();
+    $("#operators-definition").toggle();
   });
   $(".clickable3").click(function() {
     $("#variables-word").toggle();
