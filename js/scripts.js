@@ -1,30 +1,30 @@
 $(document).ready(function() {
-  $(".clickable").click(function() {
+  $(".clickable1").click(function() {
     $("#javascript-word").toggle();
     $("#javascript-definition").toggle();
-  })
-  $(".clickable").click(function() {
+  });
+  $(".clickable2").click(function() {
     $("#operators-word").toggle();
     $("#operartors-definition").toggle();
-  })
-  $(".clickable").click(function() {
+  });
+  $(".clickable3").click(function() {
     $("#variables-word").toggle();
     $("#variables-definition").toggle();
-  })
-  $(".clickable").click(function() {
+  });
+  $(".clickable4").click(function() {
     $("#naming-word").toggle();
     $("#naming-definition").toggle();
-  })
-  $(".clickable").click(function() {
+  });
+  $(".clickable5").click(function() {
     $("#functions-word").toggle();
     $("#functions-definition").toggle();
-  })
-  $(".clickable").click(function() {
+  });
+  $(".clickable6").click(function() {
     $("#methods-word").toggle();
     $("#methods-definition").toggle();
-  })
-  $(".clickable").click(function() {
+  });
+  $(".clickable7").click(function() {
     $("#arguments-word").toggle();
     $("#arguments-definition").toggle();
-  })
+  });
 });

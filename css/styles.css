@@ -1,0 +1,38 @@
+.clickable1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable1:hover {
+  text-decoration: underline;
+}
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable2:hover {
+  text-decoration: underline;
+}
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable3:hover {
+  text-decoration: underline;
+}
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable4:hover {
+  text-decoration: underline;
+}
+.definition p {
+  display: none;
+}
+#operator-definition {
+  display: none;
+}
+#variables-definition {
+  display: none;
+}
+
