@@ -27,4 +27,8 @@ $(document).ready(function() {
     $("#arguments-word").toggle();
     $("#arguments-definition").toggle();
   });
+  $("button#question").click(function() {
+    $("ul#user").append("<p>Want to lear some JavaScript terms?<p>");
+    $("ul#webpage").append("<p>Click the links below to study!<p>");
+  });
 });
